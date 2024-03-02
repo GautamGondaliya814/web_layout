@@ -1,6 +1,6 @@
 import { Container, Row } from "react-bootstrap"
-import "D:/gautam/react/bootstarps5/node_modules/slick-carousel/slick/slick.css";
-import "D:/gautam/react/bootstarps5/node_modules/slick-carousel/slick/slick-theme.css";
+import "D:/gautam/react/bootstarps5/web-page/node_modules/slick-carousel/slick/slick.css";
+import "D:/gautam/react/bootstarps5/web-page/node_modules/slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
 import { LiaPaintBrushSolid, LiaBusinessTimeSolid } from "react-icons/lia";
 import { LuMonitorDot } from "react-icons/lu";
